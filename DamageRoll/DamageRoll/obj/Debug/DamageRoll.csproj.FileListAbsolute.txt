@@ -1,0 +1,6 @@
+c:\users\dj\documents\visual studio 2012\Projects\DamageRoll\DamageRoll\bin\Debug\DamageRoll.exe.config
+c:\users\dj\documents\visual studio 2012\Projects\DamageRoll\DamageRoll\bin\Debug\DamageRoll.exe
+c:\users\dj\documents\visual studio 2012\Projects\DamageRoll\DamageRoll\bin\Debug\DamageRoll.pdb
+c:\users\dj\documents\visual studio 2012\Projects\DamageRoll\DamageRoll\obj\Debug\DamageRoll.csprojResolveAssemblyReference.cache
+c:\users\dj\documents\visual studio 2012\Projects\DamageRoll\DamageRoll\obj\Debug\DamageRoll.exe
+c:\users\dj\documents\visual studio 2012\Projects\DamageRoll\DamageRoll\obj\Debug\DamageRoll.pdb
